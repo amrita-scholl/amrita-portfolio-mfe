@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --portfolio-bg: #ffffff;
+  --portfolio-text: #162233;
+  --portfolio-heading: #10233d;
+  --portfolio-muted: #637083;
+  --portfolio-border: #dbe3ed;
+  --portfolio-accent: #246bfe;
+  --portfolio-accent-soft: #f2f7fc;
+  --portfolio-code-bg: #f4f7fb;
+
+  --bg: var(--portfolio-bg);
+  --text: var(--portfolio-muted);
+  --text-h: var(--portfolio-heading);
+  --border: var(--portfolio-border);
+  --accent: var(--portfolio-accent);
+  --accent-bg: rgba(36, 107, 254, .1);
+  --accent-border: rgba(36, 107, 254, .5);
+  --code-bg: var(--portfolio-code-bg);
+  --social-bg: var(--portfolio-accent-soft);
+  --portfolio-font: 'Poppins', 'Avenir Next', 'Segoe UI', sans-serif;
+}
+
+[data-theme='dark'] {
+  --portfolio-bg: #121212;
+  --portfolio-text: #d7d7d7;
+  --portfolio-heading: #f4f4f4;
+  --portfolio-muted: #a9b8c2;
+  --portfolio-border: #2b2f31;
+  --portfolio-accent: #20c7bd;
+  --portfolio-accent-soft: #1b2022;
+  --portfolio-code-bg: #1b1b1b;
+
+  --accent-bg: rgba(32, 199, 189, .14);
+  --accent-border: rgba(32, 199, 189, .55);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --portfolio-bg: #121212;
+    --portfolio-text: #d7d7d7;
+    --portfolio-heading: #f4f4f4;
+    --portfolio-muted: #a9b8c2;
+    --portfolio-border: #2b2f31;
+    --portfolio-accent: #20c7bd;
+    --portfolio-accent-soft: #1b2022;
+    --portfolio-code-bg: #1b1b1b;
+    --accent-bg: rgba(32, 199, 189, .14);
+    --accent-border: rgba(32, 199, 189, .55);
+  }
+}
+
+body {
+  background: var(--portfolio-bg);
+  color: var(--portfolio-text);
+  font-family: var(--portfolio-font);
+  font-size: 16px;
+  line-height: 1.6;
+  transition: background-color .25s ease, color .25s ease;
+}
+
+button, select, input, textarea {
+  color: inherit;
+}

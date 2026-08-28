@@ -1,0 +1,17 @@
+{
+  "name": "amrita-portfolio-mfe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.34.5",
+  "devDependencies": {
+    "@module-federation/vite": "^1.20.8",
+    "@rolldown/binding-win32-x64-msvc": "1.2.5"
+  }
+}
