@@ -116,7 +116,7 @@ function Home() {
               <p className="hero-description">I bring strong system design, architecture, R&D and cross-functional leadership across fintech, banking, telecom, and insurance domains.</p>
               <p className="hero-description">AWS Certified Solutions Architect with a focus on building intelligent, observable and dependable enterprise systems.</p>
               <div className="hero-actions">
-                <Link to="/about" className="btn btn-primary">Explore my work <span aria-hidden="true">↗</span></Link>
+                <Link to="#projects" className="btn btn-primary">Explore my work <span aria-hidden="true">↗</span></Link>
                 <a href="#contact" className="text-link">Let’s connect <span aria-hidden="true">→</span></a>
               </div>
             </div>
