@@ -13,12 +13,12 @@ export default defineConfig({
         'about-mfe': {
           type: "module",
           name: "about-mfe",
-          entry : 'http://localhost:5001/remoteEntry.js',
+          entry : 'https://amrita-portfolio-vercel-about-mfe-4.vercel.app/remoteEntry.js',
         },
-        'experience-mfe': { type: 'module', name: 'experience-mfe', entry: 'http://localhost:5002/remoteEntry.js' },
-        'projects-mfe': { type: 'module', name: 'projects-mfe', entry: 'http://localhost:5003/remoteEntry.js' },
-        'skills-mfe': { type: 'module', name: 'skills-mfe', entry: 'http://localhost:5004/remoteEntry.js' },
-        'contact-mfe': { type: 'module', name: 'contact-mfe', entry: 'http://localhost:5006/remoteEntry.js' },
+        'experience-mfe': { type: 'module', name: 'experience-mfe', entry: 'https://amrita-portfolio-vercel-experience-mfe-4.vercel.app/remoteEntry.js' },
+        'projects-mfe': { type: 'module', name: 'projects-mfe', entry: 'https://amrita-portfolio-vercel-projects-mfe-4.vercel.app/remoteEntry.js' },
+        'skills-mfe': { type: 'module', name: 'skills-mfe', entry: 'https://amrita-portfolio-vercel-skills-mfe-4.vercel.app/remoteEntry.js' },
+        'contact-mfe': { type: 'module', name: 'contact-mfe', entry: 'https://amrita-portfolio-vercel-contact-mfe-4.vercel.app/remoteEntry.js' },
       },
 
       shared: {  

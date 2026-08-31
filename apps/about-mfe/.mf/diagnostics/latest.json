@@ -1,10 +1,10 @@
 {
   "latestErrorEvent": {
     "code": "TYPE-001",
-    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"\\\"C:\\\\\\\\Program Files\\\\\\\\nodejs\\\\\\\\node.exe\\\" D:\\\\amrita\\\\claude-ai-practice\\\\amrita-portfolio-mfe\\\\node_modules\\\\.pnpm\\\\typescript@6.0.3\\\\node_modules\\\\typescript\\\\bin\\\\tsc --project D:\\\\amrita\\\\claude-ai-practice\\\\amrita-portfolio-mfe\\\\apps\\\\about-mfe\\\\node_modules\\\\.federation\\\\tsconfig.9d16ebfaacb0f8bb01198aa1eab45d5e.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"\\\"C:\\\\\\\\Program Files\\\\\\\\nodejs\\\\\\\\node.exe\\\" D:\\\\amrita\\\\claude-ai-practice\\\\amrita-portfolio-mfe\\\\node_modules\\\\.pnpm\\\\typescript@6.0.3\\\\node_modules\\\\typescript\\\\bin\\\\tsc --project D:\\\\amrita\\\\claude-ai-practice\\\\amrita-portfolio-mfe\\\\apps\\\\about-mfe\\\\node_modules\\\\.federation\\\\tsconfig.09aba200f4f02e8596a4829b63fdd9d5.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
     "args": {
-      "cmd": "\"C:\\\\Program Files\\\\nodejs\\\\node.exe\" D:\\amrita\\claude-ai-practice\\amrita-portfolio-mfe\\node_modules\\.pnpm\\typescript@6.0.3\\node_modules\\typescript\\bin\\tsc --project D:\\amrita\\claude-ai-practice\\amrita-portfolio-mfe\\apps\\about-mfe\\node_modules\\.federation\\tsconfig.9d16ebfaacb0f8bb01198aa1eab45d5e.json"
+      "cmd": "\"C:\\\\Program Files\\\\nodejs\\\\node.exe\" D:\\amrita\\claude-ai-practice\\amrita-portfolio-mfe\\node_modules\\.pnpm\\typescript@6.0.3\\node_modules\\typescript\\bin\\tsc --project D:\\amrita\\claude-ai-practice\\amrita-portfolio-mfe\\apps\\about-mfe\\node_modules\\.federation\\tsconfig.09aba200f4f02e8596a4829b63fdd9d5.json"
     },
-    "timestamp": 1787908155513
+    "timestamp": 1788182451800
   }
 }
