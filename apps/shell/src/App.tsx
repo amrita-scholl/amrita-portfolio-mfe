@@ -129,7 +129,6 @@ function Home() {
                 <a href="mailto:amrita.scholl@gmail.com" aria-label="Email Amrita">@</a>
                 <a href="https://www.linkedin.com/in/amrita-singh" target="_blank" rel="noreferrer" aria-label="Amrita on LinkedIn">in</a>
                 <a href="https://github.com/amrita-scholl" target="_blank" rel="noreferrer" aria-label="Amrita on GitHub">⌘</a>
-                <a href="https://instagram.com/" target="_blank" rel="noreferrer" aria-label="Amrita on Instagram">◎</a>
               </div>
             </div>
           </div>
@@ -265,7 +264,6 @@ function App() {
               <a href="https://www.linkedin.com/in/amrita-singh" target="_blank" rel="noreferrer" aria-label="Amrita on LinkedIn">in</a>
               <a href="https://github.com/amrita-scholl" target="_blank" rel="noreferrer" aria-label="Amrita on GitHub">git</a>
               <a href="mailto:amrita.scholl@gmail.com" aria-label="Email Amrita">@</a>
-              <a href="https://instagram.com/" target="_blank" rel="noreferrer" aria-label="Amrita on Instagram">ig</a>
             </div>
           </div>
         </div>
