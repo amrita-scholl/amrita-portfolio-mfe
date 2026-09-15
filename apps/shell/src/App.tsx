@@ -261,7 +261,7 @@ function App() {
           <div className="footer-column footer-connect">
             <h2>Connect</h2>
             <div className="footer-social-links">
-              <a href="https://www.linkedin.com/in/amrita-singh" target="_blank" rel="noreferrer" aria-label="Amrita on LinkedIn">in</a>
+              <a href="https://www.linkedin.com/in/amrita-singh-0431ab1b4/" target="_blank" rel="noreferrer" aria-label="Amrita on LinkedIn">in</a>
               <a href="https://github.com/amrita-scholl" target="_blank" rel="noreferrer" aria-label="Amrita on GitHub">git</a>
               <a href="mailto:amrita.scholl@gmail.com" aria-label="Email Amrita">@</a>
             </div>
