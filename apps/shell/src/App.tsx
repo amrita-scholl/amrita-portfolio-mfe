@@ -127,7 +127,7 @@ function Home() {
               </div>
               <div className="social-links">
                 <a href="mailto:amrita.scholl@gmail.com" aria-label="Email Amrita">@</a>
-                <a href="https://www.linkedin.com/in/amrita-singh" target="_blank" rel="noreferrer" aria-label="Amrita on LinkedIn">in</a>
+                <a href="https://www.linkedin.com/in/amrita-singh-0431ab1b4/" target="_blank" rel="noreferrer" aria-label="Amrita on LinkedIn">in</a>
                 <a href="https://github.com/amrita-scholl" target="_blank" rel="noreferrer" aria-label="Amrita on GitHub">⌘</a>
               </div>
             </div>
